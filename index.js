@@ -53,3 +53,14 @@ const currentDate = (date = new Date())=> {
     return `${days}/ ${months} / ${year}`;
 }
 console.log(currentDate());
+
+/*
+Exercise 3: Write a JS program to get a current day
+Expected Output:
+mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy
+*/
+
+const a = 16;
+const b = 20;
+
+console.log (a+b);
